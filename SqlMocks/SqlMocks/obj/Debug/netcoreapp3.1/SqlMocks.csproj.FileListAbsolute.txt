@@ -1,0 +1,9 @@
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\bin\Debug\netcoreapp3.1\SqlMocks.deps.json
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\bin\Debug\netcoreapp3.1\SqlMocks.dll
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\obj\Debug\netcoreapp3.1\SqlMocks.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\obj\Debug\netcoreapp3.1\SqlMocks.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\obj\Debug\netcoreapp3.1\SqlMocks.AssemblyInfo.cs
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\bin\Debug\netcoreapp3.1\SqlMocks.pdb
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\obj\Debug\netcoreapp3.1\SqlMocks.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\obj\Debug\netcoreapp3.1\SqlMocks.dll
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\obj\Debug\netcoreapp3.1\SqlMocks.pdb
