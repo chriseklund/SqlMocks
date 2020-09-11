@@ -1,0 +1,8 @@
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.DAL.Core\obj\Debug\netcoreapp3.1\SqlMocks.DAL.Core.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.DAL.Core\obj\Debug\netcoreapp3.1\SqlMocks.DAL.Core.AssemblyInfo.cs
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.DAL.Core\obj\Debug\netcoreapp3.1\SqlMocks.DAL.Core.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.DAL.Core\bin\Debug\netcoreapp3.1\SqlMocks.DAL.Core.deps.json
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.DAL.Core\bin\Debug\netcoreapp3.1\SqlMocks.DAL.Core.dll
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.DAL.Core\bin\Debug\netcoreapp3.1\SqlMocks.DAL.Core.pdb
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.DAL.Core\obj\Debug\netcoreapp3.1\SqlMocks.DAL.Core.dll
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.DAL.Core\obj\Debug\netcoreapp3.1\SqlMocks.DAL.Core.pdb

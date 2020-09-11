@@ -1,0 +1,9 @@
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.TestAutomation\bin\Debug\SqlMocks.AdventureWorksDb.dacpac
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.TestAutomation\bin\Debug\SqlMocks.TestAutomation.dll
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.TestAutomation\bin\Debug\SqlMocks.TestAutomation.pdb
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.TestAutomation\obj\Debug\Model.xml
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.TestAutomation\obj\Debug\refactor.xml
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.TestAutomation\obj\Debug\postdeploy.sql
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.TestAutomation\obj\Debug\predeploy.sql
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.TestAutomation\obj\Debug\SqlMocks.TestAutomation.dll
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.TestAutomation\obj\Debug\SqlMocks.TestAutomation.pdb
