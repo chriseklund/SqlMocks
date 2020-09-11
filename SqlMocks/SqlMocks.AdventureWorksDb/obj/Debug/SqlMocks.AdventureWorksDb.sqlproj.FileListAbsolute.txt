@@ -1,0 +1,9 @@
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdventureWorksDb\bin\Debug\SqlMocks.AdventureWorksDb.dacpac
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdventureWorksDb\bin\Debug\SqlMocks.AdventureWorksDb.dll
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdventureWorksDb\bin\Debug\SqlMocks.AdventureWorksDb.pdb
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdventureWorksDb\obj\Debug\Model.xml
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdventureWorksDb\obj\Debug\refactor.xml
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdventureWorksDb\obj\Debug\postdeploy.sql
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdventureWorksDb\obj\Debug\predeploy.sql
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdventureWorksDb\obj\Debug\SqlMocks.AdventureWorksDb.dll
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdventureWorksDb\obj\Debug\SqlMocks.AdventureWorksDb.pdb

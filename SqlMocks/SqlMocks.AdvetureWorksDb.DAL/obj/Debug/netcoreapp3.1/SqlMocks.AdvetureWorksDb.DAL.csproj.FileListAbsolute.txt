@@ -1,0 +1,9 @@
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdvetureWorksDb.DAL\bin\Debug\netcoreapp3.1\SqlMocks.AdvetureWorksDb.DAL.deps.json
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdvetureWorksDb.DAL\bin\Debug\netcoreapp3.1\SqlMocks.AdvetureWorksDb.DAL.dll
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdvetureWorksDb.DAL\bin\Debug\netcoreapp3.1\SqlMocks.AdvetureWorksDb.DAL.pdb
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdvetureWorksDb.DAL\obj\Debug\netcoreapp3.1\SqlMocks.AdvetureWorksDb.DAL.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdvetureWorksDb.DAL\obj\Debug\netcoreapp3.1\SqlMocks.AdvetureWorksDb.DAL.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdvetureWorksDb.DAL\obj\Debug\netcoreapp3.1\SqlMocks.AdvetureWorksDb.DAL.AssemblyInfo.cs
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdvetureWorksDb.DAL\obj\Debug\netcoreapp3.1\SqlMocks.AdvetureWorksDb.DAL.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdvetureWorksDb.DAL\obj\Debug\netcoreapp3.1\SqlMocks.AdvetureWorksDb.DAL.dll
+C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdvetureWorksDb.DAL\obj\Debug\netcoreapp3.1\SqlMocks.AdvetureWorksDb.DAL.pdb

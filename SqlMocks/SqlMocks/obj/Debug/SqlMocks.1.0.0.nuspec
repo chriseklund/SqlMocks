@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SqlMocks</id>
+    <version>1.0.0</version>
+    <authors>Christopher Eklund</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">license.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>SqlMocks allows you to run unit tests around stored procedures, functions, and views in a database project.</description>
+    <copyright>2020</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="EntityFramework" version="6.4.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="3.1.7" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks\bin\Debug\netcoreapp3.1\SqlMocks.runtimeconfig.json" target="lib\netcoreapp3.1\SqlMocks.runtimeconfig.json" />
+    <file src="C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks\bin\Debug\netcoreapp3.1\SqlMocks.dll" target="lib\netcoreapp3.1\SqlMocks.dll" />
+    <file src="C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks\license.txt" target="license.txt" />
+  </files>
+</package>

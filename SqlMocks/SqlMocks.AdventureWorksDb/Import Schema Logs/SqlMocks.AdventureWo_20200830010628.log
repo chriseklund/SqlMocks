@@ -1,0 +1,10 @@
+8/29/2020 8:06:28 PM	This log contains information about the import schema operation into project 'SqlMocks.AdventureWorksDb' on computer 'EKLUNDFAMILYPC' by user 'chris'.
+8/29/2020 8:06:28 PM	Deserializing model
+8/29/2020 8:06:30 PM	Resolving model
+8/29/2020 8:06:32 PM	Visiting imported model for types
+8/29/2020 8:06:34 PM	Scanning project for duplicate elements
+8/29/2020 8:06:34 PM	Finished duplicate element processing
+8/29/2020 8:07:16 PM	Processing extra files
+8/29/2020 8:07:16 PM	Finished importing Data-tier Application file.
+8/29/2020 8:07:16 PM	A summary of the import was saved to the following location: C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks\SqlMocks.AdventureWorksDb\Import Schema Logs\SqlMocks.AdventureWo_20200830010628.log
+8/29/2020 8:07:16 PM	Click Finish to continue...

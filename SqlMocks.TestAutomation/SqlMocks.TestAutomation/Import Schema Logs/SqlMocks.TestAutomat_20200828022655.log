@@ -1,0 +1,10 @@
+8/27/2020 9:26:55 PM	This log contains information about the import schema operation into project 'SqlMocks.TestAutomation' on computer 'EKLUNDFAMILYPC' by user 'chris'.
+8/27/2020 9:26:56 PM	Deserializing model
+8/27/2020 9:26:58 PM	Resolving model
+8/27/2020 9:26:59 PM	Visiting imported model for types
+8/27/2020 9:27:01 PM	Scanning project for duplicate elements
+8/27/2020 9:27:01 PM	Finished duplicate element processing
+8/27/2020 9:27:33 PM	Processing extra files
+8/27/2020 9:27:33 PM	Finished importing Data-tier Application file.
+8/27/2020 9:27:33 PM	A summary of the import was saved to the following location: C:\Users\chris\source\repos\chriseklund\SqlMocks\SqlMocks.TestAutomation\SqlMocks.TestAutomation\Import Schema Logs\SqlMocks.TestAutomat_20200828022655.log
+8/27/2020 9:27:33 PM	Click Finish to continue...
