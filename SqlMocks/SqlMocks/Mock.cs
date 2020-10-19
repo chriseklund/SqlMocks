@@ -53,7 +53,7 @@ namespace SqlMocks
                 _ = cmd.ExecuteNonQuery();
 
                 cmd.CommandType = CommandType.Text;
-                cmd.CommandText = $"SELECT TOP(0) * INTO {schema}.{objectName} FROM dbo.{objectName}_{sessionId}";
+                cmd.CommandText = $"SELECT TOP(0) * INTO {schema}.{objectName} FROM {schema}.{objectName}_{sessionId}";
                 _ = cmd.ExecuteNonQuery();
             }
         }
