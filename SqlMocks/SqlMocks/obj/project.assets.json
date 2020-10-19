@@ -456,7 +456,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\chris\\source\\repos\\chriseklund\\SqlMocks\\SqlMocks\\SqlMocks\\SqlMocks.csproj",
       "projectName": "SqlMocks",
